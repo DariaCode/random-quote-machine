@@ -1,0 +1,111 @@
+/* ----------------------------------------------------
+Stylesheet for www.dariacode.dev / random-quote-machine
+
+Updated: 02/18/2020
+Author: Daria Vodzinskaia
+Website: www.dariacode.dev
+-------------------------------------------------------  */
+.conteiner {
+  height: 85%;
+}
+
+#top {
+  padding-top: 15vh;
+}
+
+#footer {
+  padding-top: 25vh;
+  font-size: 1vw;
+}
+
+#footer .footer {
+  font-family: 'Special Elite', cursive;
+  color: white;
+  text-align: center;
+}
+
+.quote-box-wrapper {
+  height: 60vh;
+}
+
+#quote-box {
+  background-color: white;
+  border: 3px solid #54320B;
+  font-family: 'Special Elite', cursive;
+  padding: 6% 6% 3% 6%;
+  font-size: 2vw;
+  -webkit-box-shadow: 30px 30px 20px rgba(28, 27, 27, 0.84);
+          box-shadow: 30px 30px 20px rgba(28, 27, 27, 0.84);
+}
+
+#quote-box #text {
+  text-align: center;
+}
+
+#quote-box .fa-earlybirds {
+  display: block;
+  padding-left: 4px;
+  font-size: 2em;
+}
+
+#quote-box i {
+  font-size: 2em;
+}
+
+#author {
+  display: block;
+  font-size: 0.7em;
+  text-align: right;
+  line-height: 2.8;
+}
+
+.buttons {
+  margin-block: 5%;
+  text-align: center;
+}
+
+.buttons .button {
+  color: white;
+  border: none;
+  border-radius: 3px;
+  font-size: 0.6em;
+  width: auto;
+  padding: 8px 18px 8px 18px;
+}
+
+a {
+  padding: 18px 10px 6px 10px;
+  margin-right: 6px;
+}
+
+a i {
+  color: white;
+  text-align: center;
+}
+
+/*
+.cham-head,
+.cham-body-2,
+.cham-body-3 {
+    height: 5vw;
+}
+
+.cham-head{
+    border-radius: 50%;
+    .eye{
+        background-color: black;
+        border-radius: 50%;
+        height: 10%;
+    }
+}
+.cham-body-1 {
+    border-top-left-radius: 100%;
+}
+.cham-body-2 {
+    border-top-right-radius: 100%;
+}
+.cham-body-3 {
+    border-bottom-right-radius: 100%;
+}
+*/
+/*# sourceMappingURL=style.css.map */
